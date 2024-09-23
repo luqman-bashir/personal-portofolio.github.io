@@ -1,5 +1,5 @@
 Portfolio
-The app is my Portfolio, 17/09/2024
+The app is my Portfolio, 23/09/2024
 By luqman Bashir
 Description
 The application includes a landing page showing what i do, my education background, some of my projects and their links to my github and my contact information.
